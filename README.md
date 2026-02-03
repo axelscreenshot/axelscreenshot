@@ -1,9 +1,9 @@
 ## QnA *@axelscreenshot*, 26 Oct 2025
 
-> *Who are you?*
+<!-- *Who are you?*
 
 I am a student who is still learning slowly but surely, searching for my true calling in this algorithmic mess we call computer science
-
+-->
 
 > *Why are you called **axelscreenshot**?*
 
